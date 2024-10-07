@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Aryadeep Das! 👋
 - 👀 I’m interested in Full Stack Web Development and DSA
 - 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate 
 - 📫 Email:aryadeepdas8@gmail.com,Phone Number:7439860420
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm always curious about new technologies and how they shape the future!
