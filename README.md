@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MERN,DSA**
+- 💬 Ask me about **MERN, DSA**
 
 - 📫 How to reach me **aryadeepdas8@gmail.com**
 
@@ -19,9 +19,9 @@
 <a href="https://twitter.com/aryadeepdas8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryadeepdas8" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aryadeep-das-77b677269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 <a href="https://instagram.com/aryadeeeeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryadeeeeep" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aryadeepdas29644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aryadeepdas29644" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aryadeep das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aryadeep das" height="30" width="40" /></a>
-<a href="https://discord.gg/aryadeep9624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aryadeep9624" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aryadeepdas2964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aryadeepdas2964" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/aryadeepdas8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aryadeep das" height="30" width="40" /></a>
+<a href="https://discord.com/discovery/servers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,6 +43,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aa1043&show_icons=true&locale=en" alt="aa1043" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aa1043&" alt="aa1043" /></p>
-```
-
-I fixed the LinkedIn URL, and it should now link correctly. Let me know if you need any other changes!
