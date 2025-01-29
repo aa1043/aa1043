@@ -35,9 +35,9 @@
   <a href="https://discord.com/discovery/servers" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/aryadeep2004/" target="blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" height="30" width="30" />
-  </a>
+<a href="https://leetcode.com/u/aryadeep2004/" target="blank">
+  <img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-light.e99485d9b.svg" alt="LeetCode" height="30" width="30" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
